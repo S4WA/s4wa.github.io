@@ -8,7 +8,8 @@ I also thank, from the bottom of my heart, the users who gave me feedback and bu
 So, time really goes fast, eh? Many things about or around me have changed, so does my thoughts and skills. I must admit that this source code is absolutely terrible and is difficult to update if I'm being honest. For example, I added an option for customizing font in [version 1.3.1](https://github.com/S4WA/SoundCloud-Player/commit/f4a5fcb6d50be895843d869db996335dc06fcdab) or dark mode in [version 1.3.5](https://github.com/S4WA/SoundCloud-Player/commit/622526d102f6f85fd031d7c70ea9d39a00b50c4a). These are just examples, I got more from Google Forms or through emails. I couldn't make them without you guys' help. 
 
 Nothing has changed about finding it fun to watch the numbers increase on the graph in the Google Web Store dashboard. I was a bit of an addict at some point.
-![Screenshot 2024-09-27 at 0 01 25 AM](https://github.com/user-attachments/assets/06e6e701-9547-4856-a018-918b054215dd)
+![Screenshot 2024-09-27 at 0 01 25 AM](https://github.com/user-attachments/assets/f5d43612-d949-4b28-8317-fa2c58646de0)
+
 
 Regardless, I don't know how to feel about Google made something similar on their browser. I guess I gotta move on and make something new. 
 
