@@ -12,6 +12,7 @@ In the beginning, it looked like the image below. There are a few videos of its 
 ![Screenshot 2024-09-29 at 11 13 02 AM](https://github.com/user-attachments/assets/abd68fdc-6439-4d86-b818-dae5639e41eb)
 
 Nothing has changed about finding it fun to watch the numbers increase on the graph in the Google Web Store dashboard. I was a bit of an addict at some point.
+
 ![Screenshot 2024-09-27 at 0 01 25 AM](https://github.com/user-attachments/assets/f5d43612-d949-4b28-8317-fa2c58646de0)
 
 Regardless, I don't know how to feel about Google made something similar on their browser. I guess I gotta move on and make something new. 
